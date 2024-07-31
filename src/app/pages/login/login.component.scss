@@ -1,0 +1,47 @@
+.fundo{
+    width: 100vw;
+    height: 100%;
+    border: 5px;    
+    background-color: rgb(196, 156, 82) ;
+    display: flex;
+}
+
+.login{
+   width: 100%;
+   height: 100%;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   justify-content: center;
+   gap: 10px;
+}
+
+form{
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+    flex-direction: column;
+    font-size: 1em;
+    width: 20vw;
+    border-radius: 5px;
+    
+
+}
+
+button{
+    color: rgb(255, 0, 0);
+    background-color: rgb(54, 97, 67);
+    width: 120px;
+    height: 40px;
+    border-radius: 15px;
+}
+
+input{
+    width: 100%;
+    height: 30px;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 0;
+}
+
+
