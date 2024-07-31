@@ -84,4 +84,10 @@ onCancelar(){
   this.formulario.reset();
   this.formulario.disable();
 }
+
+//Função para buscar as informaões e usuários 
+
+
+
 }
+
